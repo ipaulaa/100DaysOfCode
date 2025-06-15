@@ -1,8 +1,20 @@
 # 100 Days of Code
 ___
-## Current @: `Day 44`
+## Last Update @: `Day 44`
 ___
-### Please, take a look at the notes in the bottom.
+
+> [!TIP]  
+This repo was created during my first attempt at completing the course. I made it up to **Day 43**. If you're looking for my more recent progress, check out my other repo: [100days](https://github.com/ipaulaa/100days), which goes all the way to **Day 92** (although it's still a work in progress).
+
+> [!IMPORTANT]  
+Some of the Reeborg's World solutions won't run directly on your computer. They need to be pasted into the **Reeborg’s World online environment**, as they are tailored for specific worlds. Don’t worry — I’ve included the correct links with those solutions to make things easier. <br><br>
+Starting on **Day 029**, I began using **environment variables** to protect my personal information.  
+If you see code like `var = os.environ["VAR"]`, you'll need to either:  
+> - Create environment variables with those names and add your own values, or  
+> - Replace the variables manually in the code with your own data.
+> Originally, I was using `input()` to enter sensitive info each time the program ran — but that got old fast! Switching to environment variables was a more convenient and secure alternative.
+> > *Although... now that I’ve switched computers a few times, I have no clue what those environment variables were anymore...
+**<ins>Lesson learned:<ins>** document **everything**, even your secrets!* 😆
 ___
 ## [`Day001`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day001) [`Day002`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day002) [`Day003`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day003) [`Day004`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day004) [`Day005`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day005)
 ## [`Day006`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day006) [`Day007`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day007) [`Day008`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day008) [`Day009`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day009) [`Day010`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day010)
@@ -24,10 +36,3 @@ ___
 ## [`Day086`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day086) [`Day087`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day087) [`Day088`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day088) [`Day089`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day089) [`Day090`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day090)
 ## [`Day091`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day091) [`Day092`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day092) [`Day093`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day093) [`Day094`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day094) [`Day095`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day095)
 ## [`Day096`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day096) [`Day097`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day097) [`Day098`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day098) [`Day099`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day099) [`Day100`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day100)
-
-___
-## NOTES:
-- Some codes for Reeborg's World won't work if you try to run in your computer. Instead, you need to copy and paste them into the appropriate world. Those codes already have the link on them.
-  
-- Starting in `Day029`, I make use of Environment Variables to protect my personal information. If you want the codes that have: `var = os.environ["VAR"]` to work you have to either create Environment Variables with those names with your information. Or replace those values with your own.
-    - I was using `input()` to prompt for the data everytime the program ran, to protect my personal information, but that was too tiresome, having to type large number of information at a time,so I switched to using environment variables.
