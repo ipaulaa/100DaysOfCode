@@ -1,6 +1,6 @@
 # 100 Days of Code
 ___
-## Last Update @: `Day 44`
+## Last Update @: `Day 43`
 ___
 
 > [!TIP]  
@@ -13,7 +13,7 @@ If you see code like `var = os.environ["VAR"]`, you'll need to either:
 > - Create environment variables with those names and add your own values, or  
 > - Replace the variables manually in the code with your own data.
 > Originally, I was using `input()` to enter sensitive info each time the program ran — but that got old fast! Switching to environment variables was a more convenient and secure alternative.
-> > *Although... now that I’ve switched computers a few times, I have no clue what those environment variables were anymore...
+> > *Although... now that I’ve switched computers a few times, I have no clue what those environment variables were anymore...<br>
 **<ins>Lesson learned:<ins>** document **everything**, even your secrets!* 😆
 ___
 ## [`Day001`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day001) [`Day002`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day002) [`Day003`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day003) [`Day004`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day004) [`Day005`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day005)
@@ -24,7 +24,9 @@ ___
 ## [`Day026`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day026) [`Day027`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day027) [`Day028`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day028) [`Day029`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day029) [`Day030`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day030)
 ## [`Day031`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day031) [`Day032`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day032) [`Day033`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day033) [`Day034`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day034) [`Day035`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day035)
 ## [`Day036`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day036) [`Day037`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day037) [`Day038`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day038) [`Day039`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day039) [`Day040`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day040)
-## [`Day041`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day041) [`Day042`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day042) [`Day043`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day043) [`Day044`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day044) [`Day045`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day045)
+## [`Day041`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day041) [`Day042`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day042) [`Day043`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day043) 
+
+<!--  [`Day044`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day044) [`Day045`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day045)
 ## [`Day046`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day046) [`Day047`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day047) [`Day048`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day048) [`Day049`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day049) [`Day050`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day050)
 ## [`Day051`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day051) [`Day052`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day052) [`Day053`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day053) [`Day054`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day054) [`Day055`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day055)
 ## [`Day056`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day056) [`Day057`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day057) [`Day058`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day058) [`Day059`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day059) [`Day060`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day060)
@@ -36,3 +38,4 @@ ___
 ## [`Day086`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day086) [`Day087`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day087) [`Day088`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day088) [`Day089`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day089) [`Day090`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day090)
 ## [`Day091`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day091) [`Day092`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day092) [`Day093`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day093) [`Day094`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day094) [`Day095`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day095)
 ## [`Day096`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day096) [`Day097`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day097) [`Day098`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day098) [`Day099`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day099) [`Day100`](https://github.com/pullynnhah/100DaysOfCode/tree/master/Day100)
+ -->
